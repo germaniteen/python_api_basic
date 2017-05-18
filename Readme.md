@@ -14,6 +14,7 @@ Install the following libraries
 
 ```sh
 $ pip install nose requests
+$ pip install nap
 ```
 
 ### Development
